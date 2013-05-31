@@ -1,0 +1,8 @@
+to do
+=====
+
+* p2 install sphinx
+* p2 sphinxify
+
+done
+====
