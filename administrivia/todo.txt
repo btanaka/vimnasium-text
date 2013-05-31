@@ -4,6 +4,7 @@ to do
 * >> p2 sphinxify
 * p2 change awkward default sphinx strings (e.g. "Vimnasium's Documentation")
 * p2 deploy as test
+* p2 add analytics
 
 done
 ====
