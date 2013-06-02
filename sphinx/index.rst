@@ -6,6 +6,13 @@
 Welcome to Vimnasium
 =====================================
 
+.. image:: barbell2.png
+
+Vimnasium is the gymnasium for intermediate and advanced vim users.
+
+Improve your vim skills and knowledge by reading these lessons and practising the 
+skills described therein.
+
 Contents:
 
 .. toctree::
