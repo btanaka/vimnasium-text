@@ -20,6 +20,7 @@ Contents:
 
    introduction
 
+* zz and ZZ
 * explore_texplore_sexplore
 * buffers
 * pathogen
