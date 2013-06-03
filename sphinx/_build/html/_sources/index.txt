@@ -20,6 +20,23 @@ Contents:
 
    introduction
 
+explore_texplore_sexplore
+
+buffers
+
+code_folding
+
+jump_with_star_and_hash
+
+marks
+
+splits
+
+tabs
+
+visual_mode
+
+
 
 Indices and tables
 ==================
