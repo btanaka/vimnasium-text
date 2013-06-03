@@ -20,21 +20,17 @@ Contents:
 
    introduction
 
-explore_texplore_sexplore
-
-buffers
-
-code_folding
-
-jump_with_star_and_hash
-
-marks
-
-splits
-
-tabs
-
-visual_mode
+* explore_texplore_sexplore
+* buffers
+* pathogen
+* useful plugins: nerdtree
+* useful plugins: ...
+* code_folding
+* jump_with_star_and_hash
+* marks
+* splits
+* tabs
+* visual_mode
 
 
 
