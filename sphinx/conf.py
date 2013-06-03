@@ -15,7 +15,7 @@ import sys, os
 
 # for bootstrap theme - bt
 # see http://ryan-roemer.github.io/sphinx-bootstrap-theme/README.html#introduction-and-demos
-import sphinx_bootstrap_theme
+#import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the

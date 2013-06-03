@@ -8,7 +8,10 @@ Welcome to Vimnasium
 
 .. image:: barbell2.png
 
-Vimnasium is the gymnasium of vim skills!
+**Vimnasium is the gymnasium of vim skills!**
+
+Vimnasium's content is intended for intermediate and advanced
+vim users. Dive in and have fun!
 
 Contents:
 

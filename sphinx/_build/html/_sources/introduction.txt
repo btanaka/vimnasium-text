@@ -17,11 +17,7 @@ continue to grow, year after year?
 
 It's simple. Vim rocks. It's fast and powerful. I've used many other
 editors and even some IDEs, and I always eventually come back to
-Vim. I've yet to find another editor that can beat it. (Due respect
-to my Emacs friends who are probably mocking me as they read this.)
-
-TextMate, Sublime Text 2, etc? I've used them. I like them. In the end
-though, Vim wins, in my opinion.
+Vim. I've yet to find another editor that, in my opinion, can beat it.
 
 But why am I telling you all this? Vimnasium is aimed at intermediate
 to advanced Vim users, so you already must like Vim since
