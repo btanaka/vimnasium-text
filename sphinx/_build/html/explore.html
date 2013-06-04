@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Explore and Friends &mdash; Vimnasium 1.0 documentation</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="Vimnasium 1.0 documentation" href="index.html" />
+    <link rel="prev" title="Introduction" href="introduction.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="introduction.html" title="Introduction"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Vimnasium 1.0 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="explore-and-friends">
+<h1>Explore and Friends<a class="headerlink" href="#explore-and-friends" title="Permalink to this headline">¶</a></h1>
+<p>I frequently see new Vim users (and sometimes experienced Vim users) use the following
+clunky workflow: open a file from the shell
+with &#8216;vim &lt;some file&gt;&#8217;, make edits, save and quit,
+then open another file with &#8216;vim &lt;some other file&gt;&#8217;, make edits, and so on.</p>
+<p>This is a bit kooky. Imagine doing this with any other text editor, for example
+TextMate. Would you &#8216;mate &lt;some file&gt;&#8217;, make edits, save and exit, then &#8216;mate
+&lt;some other file&gt;&#8217;? No. That&#8217;d be goofy, right?</p>
+<p>Fortunately, there are much more efficient ways to work with multiple files.
+Some of those ways include: Vim buffers, Vim tabs, and the NERDTree plugin.
+While those techniques are covered elsewhere in Vimnasium,
+this chapter teaches you to work with multiple files by using Explore and friends.</p>
+<p>Explore (and related commands) enables you to navigate through the filesystem
+on your computer and open a file or multiple files <em>without exiting
+Vim</em>.</p>
+<p>Let&#8217;s try it.</p>
+<p>Create a directory for experimenting. (In real life, you&#8217;ll use your
+project&#8217;s actual directory, but for the sake of practice, we&#8217;ll make
+a practice directory):</p>
+<div class="highlight-python"><pre>$ mkdir exploretest
+$ cd exploretest</pre>
+</div>
+<p>We&#8217;ll need some files to play with and maybe a subdirectory too,
+so let&#8217;s make some:</p>
+<div class="highlight-python"><pre>$ touch a b c
+$ mkdir d
+$ touch d/e</pre>
+</div>
+<p>Time to fire up Vim!:</p>
+<div class="highlight-python"><pre>$ vim</pre>
+</div>
+<p>To begin exploring the filesystem, run :Explore:</p>
+<div class="highlight-python"><pre>:Explore</pre>
+</div>
+<p>You should now see:</p>
+<div class="highlight-python"><pre>" ============================================================================
+" Netrw Directory Listing                                        (netrw v138)
+"   /home/btanaka/tmp/exploreandfriends
+"   Sorted by      name
+"   Sort sequence: [\/]$,\&lt;core\%(\.\d\+\)\=\&gt;,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: &lt;F1&gt;:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+d/
+a
+b
+c</pre>
+</div>
+<p>Hey! There are our files and our subdirectory!</p>
+<p>[ TODO: keep going with example, then work in Sexplore Texplore ]</p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="introduction.html"
+                        title="previous chapter">Introduction</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/explore.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="introduction.html" title="Introduction"
+             >previous</a> |</li>
+        <li><a href="index.html">Vimnasium 1.0 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Brian Tanaka.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b1.
+    </div>
+  </body>
+</html>

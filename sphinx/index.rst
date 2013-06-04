@@ -19,14 +19,15 @@ Contents:
    :maxdepth: 2
 
    introduction
+   explore
 
 * zz and ZZ
-* explore_texplore_sexplore
 * buffers
 * pathogen
 * useful plugins: nerdtree
 * useful plugins: ...
 * code_folding
+* autocomplete with ^n ^p
 * jump_with_star_and_hash
 * marks
 * splits
