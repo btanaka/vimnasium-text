@@ -19,22 +19,20 @@ Contents:
    :maxdepth: 2
 
    introduction
+   explore
 
-explore_texplore_sexplore
-
-buffers
-
-code_folding
-
-jump_with_star_and_hash
-
-marks
-
-splits
-
-tabs
-
-visual_mode
+* zz and ZZ
+* buffers
+* pathogen
+* useful plugins: nerdtree
+* useful plugins: ...
+* code_folding
+* autocomplete with ^n ^p
+* jump_with_star_and_hash
+* marks
+* splits
+* tabs
+* visual_mode
 
 
 
