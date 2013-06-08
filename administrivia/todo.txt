@@ -7,6 +7,7 @@ to do
 * p2 add analytics
 * p2 maybe use http://openclipart.org/detail/140947/barbell-by-gsagri04 - if use then credit
 * add :!
+* add custom vim syntax a la td2
 
 done
 ====
