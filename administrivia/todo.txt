@@ -6,6 +6,7 @@ to do
 * p2 deploy as test
 * p2 add analytics
 * p2 maybe use http://openclipart.org/detail/140947/barbell-by-gsagri04 - if use then credit
+* p2 add custom vim syntax a la td2
 
 done
 ====
