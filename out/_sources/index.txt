@@ -3,14 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Vimnasium
+Welcome to Black Belt Vim
 =====================================
 
-.. image:: barbell2.png
+.. .. image:: barbell2.png
 
-**Vimnasium is the gymnasium of vim skills!**
-
-Vimnasium's content is intended for intermediate and advanced
+Black Belt Vim is for intermediate and advanced
 vim users. Dive in and have fun!
 
 Contents:

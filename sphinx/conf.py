@@ -44,8 +44,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Vimnasium'
-copyright = u'2013, Brian Tanaka'
+project = u'Black Belt Vim'
+copyright = u'2014, Brian Tanaka'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

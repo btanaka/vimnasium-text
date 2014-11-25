@@ -12,7 +12,7 @@ TextMate. Would you 'mate <some file>', make edits, save and exit, then 'mate
 
 Fortunately, there are much more efficient ways to work with multiple files.
 Some of those ways include: Vim buffers, Vim tabs, and the NERDTree plugin.
-While those techniques are covered elsewhere in Vimnasium, 
+While those techniques are covered elsewhere in Black Belt Vim, 
 this chapter teaches you to work with multiple files by using Explore and friends.
 
 Explore (and related commands) enables you to navigate through the filesystem

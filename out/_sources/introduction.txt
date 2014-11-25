@@ -19,22 +19,22 @@ It's simple. Vim rocks. It's fast and powerful. I've used many other
 editors and even some IDEs, and I always eventually come back to
 Vim. I've yet to find another editor that, in my opinion, can beat it.
 
-But why am I telling you all this? Vimnasium is aimed at intermediate
+But why am I telling you all this? Black Belt Vim is aimed at intermediate
 to advanced Vim users, so you already must like Vim since
 you're here, and I needn't convince you that it is great.
 
-So, what *is* Vimnasium anyway? It's the gymnasium of Vim. In it, you
+So, what *is* Black Belt Vim anyway? It's the gymnasium of Vim. In it, you
 will find excercises that will make you a better, more powerful Vim
 user. (A vimnast? No, that's terrible.) You will gain new skills
 and thereby work faster and more efficiently.
 
 Since vi and Vim have been around so many years, there are tons
-of great reference resources out in the world. The goal of Vimnasium
+of great reference resources out in the world. The goal of Black Belt Vim
 is to teach you some new skills in an active way that will help
 plant the seeds of the muscle memory of those new skills. 
 
-Vimnasium is also my way of giving back to the Vim community. You've
-helped me time and time again. Here's hoping Vimnasium does the same
+Black Belt Vim is also my way of giving back to the Vim community. You've
+helped me time and time again. Here's hoping Black Belt Vim does the same
 for someone else.
 
 So, let's get started!
