@@ -1,7 +1,7 @@
 to do
 =====
 
-* >> p2 sphinxify
+* s/vimnasium/black belt vim/
 * p2 change awkward default sphinx strings (e.g. "Vimnasium's Documentation")
 * p2 deploy as test
 * p2 add analytics
@@ -12,6 +12,7 @@ to do
 done
 ====
 * p2 install sphinx
+* p2 sphinxify
 
 hack
 ====
