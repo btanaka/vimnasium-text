@@ -1,6 +1,7 @@
 to do
 =====
 
+* Explore and Friends
 * s/vimnasium/black belt vim/
 * p2 change awkward default sphinx strings (e.g. "Vimnasium's Documentation")
 * p2 deploy as test
