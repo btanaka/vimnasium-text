@@ -1,6 +1,20 @@
 Explore and Friends
 ====================
 
+- **Why should I learn this?**
+
+  - Work smarter and faster by opening files without leaving Vim.
+  - When you learn about buffers and sessions, you'll be glad your learned to explore.
+
+- **What's covered in this section?**
+
+  - :Explore
+  - :Texplore
+  - :Sexplore
+
+Introduction
+------------
+
 I frequently see new Vim users (and sometimes experienced Vim users) use the following
 clunky workflow: open a file from the shell
 with 'vim <some file>', make edits, save and quit,
@@ -21,7 +35,10 @@ Vim*.
 
 Let's try it.
 
-Create a directory for experimenting. (In real life, you'll use your
+Onward, Explorer!
+----------------
+
+Create a new directory for our experimentation. (In real life, you'll use your
 project's actual directory, but for the sake of practice, we'll make
 a practice directory)::
 
@@ -34,6 +51,8 @@ so let's make some::
   $ touch a b c
   $ mkdir d
   $ touch d/e
+
+Now you have three files (a, b, and c) and one subdirectory (d) containing one file (e).
 
 Time to fire up Vim!::
 
